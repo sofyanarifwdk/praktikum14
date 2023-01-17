@@ -19,3 +19,8 @@
 
 ![1](https://user-images.githubusercontent.com/79274212/212949349-4515895a-72ae-473b-9b37-0f0b220e0877.PNG)
 ![11](https://user-images.githubusercontent.com/79274212/212949384-82fc83cd-92b9-4cda-adfc-04d91158d985.PNG)
+
+    Or three single quotes:
+
+![2](https://user-images.githubusercontent.com/79274212/212950542-95930233-7396-4295-825b-82c0383e0f89.PNG)
+![22](https://user-images.githubusercontent.com/79274212/212950567-6f9b2f2b-f96b-4a9e-92af-8512565f8675.PNG)
